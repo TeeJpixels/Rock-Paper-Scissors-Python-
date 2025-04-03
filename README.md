@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-Python-
-Mini Python checkpoint project in Codedex!
+# Rock-Paper-Scissors-(in Python)
+This is a Mini Python checkpoint project for Codedex.io!
